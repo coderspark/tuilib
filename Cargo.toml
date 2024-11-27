@@ -1,0 +1,10 @@
+[package]
+name = "tuilib"
+version = "0.1.0"
+edition = "2021"
+author = "CoderSpark"
+license = "GPL-3.0"
+description = "A tui library built with crossterm for rust"
+
+[dependencies]
+crossterm = "0.28.1"
